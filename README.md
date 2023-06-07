@@ -3,11 +3,11 @@
 # Simple Intro Landing Page
 This is a simple introductory landing page for showcasing your personal or project information. The landing page provides a clean and minimalist design to present your key details effectively.
 
-##Features
+## Features
 Clean and minimalist design.<br/>
 Easy customization to personalize the page for your needs.<br/>
 
-##Technologies Used
+## Technologies Used
 HTML<br/>
 CSS<br/>
 JavaScript<br/>
